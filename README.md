@@ -20,3 +20,8 @@ Traffic Sign Detection using CNN
 ![Ahead](https://user-images.githubusercontent.com/56344124/113498070-8db6b780-9501-11eb-8982-9f4a311b476c.gif)
 ![Stop](https://user-images.githubusercontent.com/56344124/113498109-e1c19c00-9501-11eb-81bd-c4602673c06a.gif)
 
+
+
+
+
+<sup>This page is for demonstration purposes only, if you want to know more information, please contact me</sup>
