@@ -4,13 +4,6 @@ Traffic Sign Detection using CNN
 ## About the Project
  - Implemented using Python and Tensorflow/Keras
  - GTSRB dataset
- - CNN2 refers to implemented Convolutional Neural Network
- - cnn2_model_v2 is the resulting model
- - ColorMask masks the correct color space
- - DisplaySign displays the detection
- - EdgeDetection.py not used
- - FindCircles.py finds circles in a given input
-
 
 ## Examples
 - Good weather\
